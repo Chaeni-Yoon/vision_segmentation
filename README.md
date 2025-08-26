@@ -9,13 +9,13 @@
 
 그래서 최종적으로 이미지 중앙에 위치한 물체만 검출되도록 코드를 수정했습니다.
 
-## **<출력 예시>**
+## <출력 예시>
 **input -> output -> overlay**
 
 <img width="1552" height="519" alt="image" src="https://github.com/user-attachments/assets/b39bbaf1-f00a-42da-8a72-77e1fcbaf795" />
 
 
-## **<프로세스 순서도>**
+## <프로세스 순서도>
 
 <img width="660" height="1317" alt="image" src="https://github.com/user-attachments/assets/63e70a63-55ef-4995-b0ed-032f56949e42" />
 
